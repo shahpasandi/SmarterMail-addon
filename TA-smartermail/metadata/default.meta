@@ -1,0 +1,25 @@
+# TA-smartermail/metadata/default.meta
+
+# Hide the app from the Apps menu (it's a TA, not a user-facing app)
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+
+# props.conf and transforms.conf should be globally available
+# so they apply to all searches, not just within this app
+[props]
+export = system
+
+[transforms]
+export = system
+
+# Apply eventtypes and tags globally so the 'email' tag works in Data Model
+[eventtypes]
+export = system
+
+[tags]
+export = system
+
+# Make saved searches available globally so users can see them in Reports
+[savedsearches]
+export = system
