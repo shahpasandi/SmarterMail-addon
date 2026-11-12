@@ -76,3 +76,23 @@ After installing or updating this TA, you must rebuild the **Email** Data Model 
 
 ## Version
 1.0.3
+
+---
+
+## 📦 Installation from Splunkbase
+
+The official, validated version of this Add-on is available on Splunkbase:
+[https://splunkbase.splunk.com/app/10111](https://splunkbase.splunk.com/app/10111)
+
+## 💻 Source Code
+
+The source code for this Add-on is available on GitHub:
+[https://github.com/your-username/smartermail-addon](https://github.com/your-username/smartermail-addon)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/smartermail-addon/issues).
+
+## 📄 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
