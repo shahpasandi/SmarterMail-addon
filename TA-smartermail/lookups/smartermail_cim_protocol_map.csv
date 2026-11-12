@@ -1,0 +1,9 @@
+protocol_raw,protocol
+smtp,smtp
+imap,imap
+pop,pop3
+delivery,smtp
+administrative,unknown
+generalErrors,unknown
+spamChecks,unknown
+activation,unknown
