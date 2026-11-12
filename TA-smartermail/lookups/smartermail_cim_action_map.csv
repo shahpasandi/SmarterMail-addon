@@ -1,0 +1,7 @@
+action_raw,action
+Delivered,delivered
+Delivered to Junk Email,delivered
+Bounced,blocked
+Failed,failed
+Queued,sent
+Rejected,rejected
