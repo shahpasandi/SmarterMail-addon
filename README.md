@@ -93,6 +93,11 @@ The source code for this Add-on is available on GitHub:
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shahpasandi/SmarterMail-addon/issues).
 
+## 👤 Author
+
+**Mohammad Shahpasandi**
+- GitHub: [@shahpasandi](https://github.com/shahpasandi)
+
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
