@@ -87,11 +87,11 @@ The official, validated version of this Add-on is available on Splunkbase:
 ## 💻 Source Code
 
 The source code for this Add-on is available on GitHub:
-[https://github.com/your-username/smartermail-addon](https://github.com/your-username/smartermail-addon)
+[https://github.com/shahpasandi/SmarterMail-addon](https://github.com/shahpasandi/SmarterMail-addon)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/smartermail-addon/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shahpasandi/SmarterMail-addon/issues).
 
 ## 📄 License
 
